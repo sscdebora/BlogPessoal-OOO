@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('../../assets/img/robot-in-space-4556429_640.png');
+
+    min-height: 635px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
